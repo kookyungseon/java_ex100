@@ -8,7 +8,7 @@ class ex100_14 {
 		    int b;
 		    Scanner sc = new Scanner(System.in);
 
-		    sc = new Scanner(sc.next()).useDelimiter(":");
+		
 
 		    a = sc.nextInt();
 		    b = sc.nextInt();
